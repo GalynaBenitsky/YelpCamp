@@ -1,0 +1,46 @@
+.card img {
+    width: 100%;
+}
+
+.card {
+    padding: 0;
+}
+
+.card .card-body {
+    padding: 9px;
+    color: #4a3f35 !important;
+}
+.card{
+  border: grey solid 1px;
+  margin-bottom: 5%;
+}
+img{
+  height: 15rem;
+  object-fit: cover;
+}
+#delete-form {
+    display: inline;
+}
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px 20px 9px 20px;
+}
+
+#delete-form {
+    display: inline;
+}
+.navbar{
+  background-color: #d8d3cd !important;
+  color: #2f2519 !important;
+}
+.jumbotron .text{
+  color: #2f2519 !important;
+}
+
