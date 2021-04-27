@@ -39,6 +39,6 @@ Responsive web design
 This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
 
 # Clone or download this repository
-   git clone git@github.com:GalynaM/YelpCamp.git
+   git clone https://github.com/GalynaBenitsky/YelpCamp.git
 # Install dependencies
    npm install
